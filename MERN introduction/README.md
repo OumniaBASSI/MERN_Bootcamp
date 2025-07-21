@@ -1,16 +1,16 @@
 # Learn the fundamentals of the Mern stack 
 
 ## what is a stack 
-stack of thecnologies is a set of frameworks and tools used to develop a software product 
+stack of thechnologies is a set of frameworks and tools used to develop a software product 
 
 ## Exemples
  - MERN (mongoDB, ExpressJS, ReactJs, NodeJS)
- - LAMP(linux, apache, mysql, php)
+ - LAMP (linux, apache, mysql, php)
  - MEAN (mongoDB, ExpressJS, AngularJs, NodeJS )
 
 ## MERN Stack
  
- - M : MongoDB (Database) a popular NoSQL (Non-Structered Quert Lnaguage) Database systeme (*document-oriented database*)
+ - M : MongoDB (Database) a popular NoSQL (Non-Structered Query Language) Database systeme (*document-oriented database*)
 
  - E : Express, Middleware that sits on top of the server side node.js web APIs
  (*Jvascript-based server-side framework that runs within Nodejs*)
@@ -31,7 +31,7 @@ stack of thecnologies is a set of frameworks and tools used to develop a softwar
 - Better performance
 - Improves Security
 - Provide the fastest delivery
-- provides fastest modiifications
+- provides fastest modifications
 - Open Source
 - Easy to switch between client and server
 
@@ -40,7 +40,7 @@ stack of thecnologies is a set of frameworks and tools used to develop a softwar
 MERN STACK 3-Tier architecture system consist in 3 layers
 
  1 - front-End tier for the web 
-    It's handeled by ReactJS ( afrontend js library)
+    It's handeled by ReactJS ( a frontend js library)
 
  2 - the middle tier in the server
     It's handeled by expressjs and nodejs
