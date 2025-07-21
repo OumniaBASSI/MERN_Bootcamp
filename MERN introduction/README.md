@@ -5,7 +5,7 @@ stack of thecnologirs is set of ftremeworks and tools used to develop a software
 
 ## Exemples
  - MERN (mongoDB, ExpressJS, ReactJs, NodeJS)
- - LAMP5(linux, apache, mysql, php)
+ - LAMP(linux, apache, mysql, php)
  - MEAN (mongoDB, ExpressJS, AngularJs, NodeJS )
 
 ## MERN Stack
@@ -38,6 +38,7 @@ stack of thecnologirs is set of ftremeworks and tools used to develop a software
 # MERN Stack Components 
 
 MERN STACK 3-Tier architecture system consistin 3 layers
+
  1 - front-End tier for the web 
     It's handeled by ReactJS ( afrontend js library)
 
